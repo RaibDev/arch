@@ -11,11 +11,11 @@ const Skeleton = (props) => (
     foregroundColor="#ecebeb"
     {...props}
   >
-    <circle cx="139" cy="137" r="130" /> 
-    <rect x="0" y="283" rx="0" ry="0" width="280" height="28" /> 
-    <rect x="3" y="327" rx="10" ry="10" width="274" height="77" /> 
-    <rect x="3" y="427" rx="10" ry="10" width="82" height="30" /> 
-    <rect x="122" y="417" rx="25" ry="25" width="152" height="45" />
+    <circle cx="134" cy="136" r="135" /> 
+    <rect x="0" y="279" rx="10" ry="10" width="280" height="23" /> 
+    <rect x="0" y="321" rx="10" ry="10" width="280" height="88" /> 
+    <rect x="0" y="431" rx="10" ry="10" width="95" height="30" /> 
+    <rect x="125" y="422" rx="24" ry="24" width="152" height="45" />
   </ContentLoader>
 )
 
